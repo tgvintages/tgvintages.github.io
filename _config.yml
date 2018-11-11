@@ -1,1 +1,29 @@
-theme: jekyll-theme-merlot
+url: https://tgvintages.com
+baseurl: /
+
+# Site settings
+title: TG Vintages
+email: tyler.gonder@tgvintages.com
+description: "Your source for getting what you do best into the hands of the masses."
+
+
+# Team names, titles and social links
+people:
+- name: Tyler Gonder
+  pic: tyler.gonder
+  position: Founder
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://tgvintages.com
+  - title: facebook
+    url: https://tgvintages.com
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Michigan City, IN
+
+# Build settings
+markdown: kramdown
+permalink: pretty

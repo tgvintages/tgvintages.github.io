@@ -1,0 +1,15 @@
+---
+title: Shady Creek Winery
+subtitle: wine
+layout: default
+modal-id: 1
+date: 2018-10-18
+img: shadycreekwinery.jpg
+thumbnail: shadycreekwinery.jpg
+alt: image-alt
+project-date: Oct 2018
+client: Shady Creek Winery
+category: wine
+description: We distribute Shady Creek Winery wines throughout Northern Indiana stores.
+
+---
